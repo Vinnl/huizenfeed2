@@ -13,6 +13,13 @@ type FeedConfig = {
 
 const feedConfigs: FeedConfig[] = [
   {
+    url: "https://www.thijssenmakelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers/",
+    entrySelector: "li.aanbodEntry",
+    titleSelector: ".addressInfo",
+    linkSelector: "a.aanbodEntryLink",
+    title: "Paul Thijssen makelaars - aanbod",
+  },
+  {
     url: "https://moib.nl/aanbod/",
     entrySelector: ".horizon",
     titleSelector: "h3",
