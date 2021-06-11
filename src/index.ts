@@ -1,40 +1,9 @@
 import { Browser, firefox } from "playwright-firefox";
 import { Feed } from "feed";
-import { writeFile, mkdir } from "fs/promises";
+import { writeFile, mkdir, readFile } from "fs/promises";
 import fetch from "node-fetch";
 import { URL } from "url";
-
-type FeedConfig = {
-  url: string;
-  title: string;
-  entrySelector: string;
-  titleSelector: string;
-  linkSelector: string;
-};
-
-const feedConfigs: FeedConfig[] = [
-  {
-    url: "https://www.thijssenmakelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers/",
-    entrySelector: "li.aanbodEntry",
-    titleSelector: ".addressInfo",
-    linkSelector: "a.aanbodEntryLink",
-    title: "Paul Thijssen makelaars - aanbod",
-  },
-  {
-    url: "https://www.peekenpompe.nl/nl/woningaanbod?ignoreType[]=isBought#{%22view%22:%22grid%22,%22sort%22:%22addedDesc%22,%22address%22:%22%22,%22title%22:%22%22,%22salesRentals%22:%22sales%22,%22salesPriceMin%22:0,%22salesPriceMax%22:400000,%22devSalesPriceMin%22:0,%22devSalesPriceMax%22:9999999999,%22rentalsPriceMin%22:0,%22rentalsPriceMax%22:9999999999,%22devRentalsPriceMin%22:0,%22devRentalsPriceMax%22:9999999999,%22surfaceMin%22:0,%22surfaceMax%22:9999999999,%22unitsMin%22:0,%22unitsMax%22:9999999999,%22devSurfaceMin%22:0,%22devSurfaceMax%22:9999999999,%22plotSurfaceMin%22:0,%22plotSurfaceMax%22:9999999999,%22roomsMin%22:2,%22roomsMax%22:9999999999,%22bedroomsMin%22:0,%22bedroomsMax%22:9999999999,%22bathroomsMin%22:0,%22bathroomsMax%22:9999999999,%22city%22:[%22Utrecht%22],%22district%22:[],%22mainType%22:[],%22buildType%22:[],%22tag%22:[],%22country%22:[],%22state%22:[],%22listingsType%22:[],%22ignoreType%22:[%22isBought%22],%22categories%22:[],%22status%22:%22available%22,%22statusStrict%22:false,%22user%22:%22%22,%22branch%22:%22%22,%22archiveTime%22:15778463,%22page%22:1}",
-    entrySelector: ".card-object",
-    titleSelector: ".card-object-address",
-    linkSelector: ".card-object-address",
-    title: "Peek&Pompe makelaars - aanbod",
-  },
-  {
-    url: "https://moib.nl/aanbod/",
-    entrySelector: ".horizon",
-    titleSelector: "h3",
-    linkSelector: "a.overlay-link",
-    title: "MOIB makelaars - aanbod",
-  },
-];
+import { parse } from "@ltd/j-toml";
 
 run();
 let browser: Browser;
@@ -51,6 +20,7 @@ async function getBrowser() {
 }
 
 async function run() {
+  const feedConfigs = await loadFeedConfigs();
   const feedsData = await Promise.all(feedConfigs.map(generateFeed));
   const combinedFeedData = combineFeedData(feedsData);
   const combinedFeedDataWithDates = await reconcileDates(combinedFeedData);
@@ -61,6 +31,33 @@ async function run() {
   const browser = await getBrowser();
   await browser.close();
   console.log("Feed generated at public/feed.xml");
+}
+
+type FeedConfig = {
+  id: string;
+  url: string;
+  title: string;
+  entrySelector: string;
+  titleSelector: string;
+  linkSelector: string;
+};
+
+async function loadFeedConfigs(): Promise<FeedConfig[]> {
+  const configFile = await readFile("./feeds.toml", "utf-8");
+  const parsed = parse(configFile, 1.0, "\n");
+
+  const feedIds = Object.keys(parsed);
+  return feedIds.map(feedId => {
+    const feedToml = parsed[feedId] as FeedConfig;
+    return {
+      id: feedId,
+      title: feedToml.title ?? feedId,
+      entrySelector: feedToml.entrySelector,
+      titleSelector: feedToml.titleSelector,
+      linkSelector: feedToml.linkSelector,
+      url: feedToml.url,
+    };
+  });
 }
 
 type FeedData = {
