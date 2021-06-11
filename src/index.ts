@@ -1,6 +1,8 @@
 import { Browser, firefox } from "playwright-firefox";
 import { Feed } from "feed";
 import { writeFile, mkdir } from "fs/promises";
+import fetch from "node-fetch";
+import { URL } from "url";
 
 type FeedConfig = {
   url: string;
@@ -51,9 +53,11 @@ async function getBrowser() {
 async function run() {
   const feedsData = await Promise.all(feedConfigs.map(generateFeed));
   const combinedFeedData = combineFeedData(feedsData);
-  const feed = await toFeed(combinedFeedData);
+  const combinedFeedDataWithDates = await reconcileDates(combinedFeedData);
+  const feed = await toFeed(combinedFeedDataWithDates);
   await mkdir("public").catch(() => console.log("Directory `public` already exists; continuing."));
   await writeFile("public/feed.xml", feed, "utf-8");
+  await writeFile("public/feeddata.json", JSON.stringify(combinedFeedDataWithDates), "utf-8");
   const browser = await getBrowser();
   await browser.close();
   console.log("Feed generated at public/feed.xml");
@@ -66,6 +70,7 @@ type FeedData = {
     title?: string;
     contents: string;
     link?: string;
+    retrieved: number;
   }>;
 };
 
@@ -88,6 +93,7 @@ async function generateFeed(config: FeedConfig): Promise<FeedData> {
       title: await titleElement?.textContent() ?? undefined,
       contents: await entryElement.innerHTML(),
       link: normalisedLink,
+      retrieved: Date.now(),
     };
   }));
 
@@ -118,9 +124,37 @@ function toFeed(feedData: FeedData): string {
       title: element.title ?? i.toString(),
       link: element.link ?? feedData.url,
       content: element.contents,
-      date: new Date(2021),
+      date: new Date(element.retrieved),
     });
   });
 
   return feed.atom1();
+}
+
+async function reconcileDates(feedData: FeedData): Promise<FeedData> {
+  if (typeof process.env.CI_PAGES_URL !== "string") {
+    return feedData;
+  }
+  const response = await fetch(process.env.CI_PAGES_URL + "feeddata.json");
+  if (!response.ok) {
+    return feedData;
+  }
+
+  const existingFeedData: FeedData = await response.json();
+
+  const newElements = feedData.elements.map(element => {
+    const existingElement = existingFeedData.elements.find(el => typeof el.link === "string" && el.link === element.link);
+    if (!existingElement) {
+      return element;
+    }
+    return {
+      ...element,
+      retrieved: existingElement.retrieved,
+    };
+  });
+
+  return {
+    ...feedData,
+    elements: newElements,
+  };
 }
