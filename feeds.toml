@@ -25,3 +25,10 @@ url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?e=401000"
 entrySelector = ".h-card"
 titleSelector = ".p-name"
 linkSelector = "a.home"
+
+[immo030]
+title = "IMMO 030 makelaars - aanbod"
+url = "https://www.immo-030.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
