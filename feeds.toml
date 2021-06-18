@@ -32,3 +32,10 @@ url = "https://www.immo-030.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+
+[ansdewijn]
+title = "Ans de Wijn woningen - aanbod"
+url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
