@@ -39,3 +39,10 @@ url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/beschikbaar/-400000/
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+
+[molenbeek]
+title = "Molenbeek makelaars - aanbod"
+url = "https://molenbeek.nl/wonen/aanbod?buyOrRent=buy&maxPrice=400000&amountOfRooms=3&textSearch=Utrecht&orderBy=created_at&orderDirection=desc"
+entrySelector = ".grid-objects__item"
+titleSelector = ".card--default__body"
+linkSelector = "a.card--object"
