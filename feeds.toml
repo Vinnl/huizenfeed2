@@ -53,3 +53,10 @@ url = "https://www.leefengeniet.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-4000
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+
+[nu]
+title = "NU makelaardij - aanbod"
+url = "https://www.nu-makelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-400000/koop/provincie-Utrecht/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
