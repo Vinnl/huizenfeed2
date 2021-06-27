@@ -46,3 +46,10 @@ url = "https://molenbeek.nl/wonen/aanbod?buyOrRent=buy&maxPrice=400000&amountOfR
 entrySelector = ".grid-objects__item"
 titleSelector = ".card--default__body"
 linkSelector = "a.card--object"
+
+[pauldijkstra]
+title = "Paul Dijkstra makelaars - aanbod"
+url = "https://www.leefengeniet.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-400000/koop/provincie-Utrecht/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
