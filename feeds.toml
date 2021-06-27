@@ -60,3 +60,10 @@ url = "https://www.nu-makelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-40
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+
+[brecheisen]
+title = "Brecheisen makelaars - aanbod"
+url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=7&pricerange.maxprice=400000"
+entrySelector = ".objectcontainer"
+titleSelector = ".obj_address"
+linkSelector = "a.sys-property-link"
