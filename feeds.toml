@@ -67,3 +67,10 @@ url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewst
 entrySelector = ".objectcontainer"
 titleSelector = ".obj_address"
 linkSelector = "a.sys-property-link"
+
+[clemens]
+title = "Clemens de Korte makelaardij - aanbod"
+url = "https://www.clemensdekorte.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/3+kamers/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
