@@ -81,4 +81,12 @@ url = "https://puntmakelaars.nl/nl/aanbod/woningen/?q=&typeBouw=appartement&type
 entrySelector = "ul.listHouses li"
 titleSelector = ".houseOverviewPopup"
 linkSelector = "a"
-filters = ["kantoor", "schrijf je nu in", "verkocht"]
+filters = ["Kantoor", "Schrijf je nu in", "Verkocht"]
+
+[ingridvaneck]
+title = "Ingrid van Eck Makelardij - aanbod"
+url = "https://www.ingridvaneck.nl/te-koop/"
+entrySelector = ".col-md-3"
+titleSelector = ".card__body"
+linkSelector = "a"
+filters = ["Verkocht"]
