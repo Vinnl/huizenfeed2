@@ -98,3 +98,11 @@ entrySelector = "article.object"
 titleSelector = ".details"
 linkSelector = "a.link_invis"
 filters = ["sold"]
+
+[gustocasa]
+title = "Gusto Casa - aanbod"
+url = "https://www.gustocasa.nl/woningen/?status=beschikbaar&type=&prijsvan=&prijstot=450000&orderby=status%3Aasc"
+entrySelector = ".woning"
+titleSelector = ".item-content-inner"
+linkSelector = "a.thumbnail"
+filters = ["EINDHOVEN"]
