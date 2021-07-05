@@ -106,3 +106,11 @@ entrySelector = ".woning"
 titleSelector = ".item-content-inner"
 linkSelector = "a.thumbnail"
 filters = ["EINDHOVEN"]
+
+[walton]
+title = "Walton Makelaars - aanbod"
+url = "https://www.walton.nl/nieuw-in-verkoop-makelaar"
+entrySelector = ".object"
+titleSelector = "h4"
+linkSelector = "a.adreslink"
+filters = ["Onder bod", "Verkocht"]
