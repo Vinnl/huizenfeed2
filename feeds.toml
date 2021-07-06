@@ -114,3 +114,11 @@ entrySelector = ".object"
 titleSelector = "h4"
 linkSelector = "a.adreslink"
 filters = ["Onder bod", "Verkocht"]
+
+[huf]
+title = "Makelaardij Huf - aanbod"
+url = "https://www.makelaardijhuf.nl/aanbod"
+entrySelector = ".object"
+titleSelector = "h4"
+linkSelector = "a.adreslink"
+filters = ["Onder bod", "Verkocht", "Zeist", "Meern", "Hilversum"]
