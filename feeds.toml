@@ -39,6 +39,7 @@ url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/beschikbaar/-400000/
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+timeout = 120
 
 [molenbeek]
 title = "Molenbeek makelaars - aanbod"
