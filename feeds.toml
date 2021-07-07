@@ -83,14 +83,14 @@ titleSelector = ".houseOverviewPopup"
 linkSelector = "a"
 filters = ["Kantoor", "Schrijf je nu in", "Verkocht"]
 
-## Commented out because it's often slow to respond and fails the build:
-#[ingridvaneck]
-#title = "Ingrid van Eck Makelardij - aanbod"
-#url = "https://www.ingridvaneck.nl/te-koop/"
-#entrySelector = ".col-md-3"
-#titleSelector = ".card__body"
-#linkSelector = "a"
-#filters = ["Verkocht"]
+[ingridvaneck]
+title = "Ingrid van Eck Makelardij - aanbod"
+url = "https://www.ingridvaneck.nl/te-koop/"
+entrySelector = ".col-md-3"
+titleSelector = ".card__body"
+linkSelector = "a"
+filters = ["Verkocht"]
+timeout = 120
 
 [kraaijkamp]
 title = "Kraaijkamp Makelaars - aanbod"
