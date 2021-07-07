@@ -94,7 +94,10 @@ timeout = 120
 
 [kraaijkamp]
 title = "Kraaijkamp Makelaars - aanbod"
-url = "https://www.kraaijkampmakelaars.nl/object_overview.php?f_show=list&f_sate=norm&f_type=&f_sort=price&f_ordr=DESC&f_pnum=1&f_pmin=&f_pmax=400000&f_smin=&f_smax=&f_city=Utrecht&f_dist=0"
+url = [
+	"https://www.kraaijkampmakelaars.nl/object_overview.php?f_show=list&f_sate=norm&f_type=&f_sort=price&f_ordr=DESC&f_pnum=1&f_pmin=&f_pmax=400000&f_smin=&f_smax=&f_city=Utrecht&f_dist=5000",
+	"https://www.kraaijkampmakelaars.nl/object_overview.php?f_show=list&f_sate=norm&f_type=&f_sort=price&f_ordr=DESC&f_pnum=2&f_pmin=&f_pmax=400000&f_smin=&f_smax=&f_city=Utrecht&f_dist=5000"
+]
 entrySelector = "article.object"
 titleSelector = ".details"
 linkSelector = "a.link_invis"
