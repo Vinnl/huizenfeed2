@@ -127,3 +127,11 @@ entrySelector = ".object"
 titleSelector = "h4"
 linkSelector = "a.adreslink"
 filters = ["Onder bod", "Verkocht", "Zeist", "Meern", "Hilversum"]
+
+[nijland]
+title = Nijland Makelaars - aanbod"
+url = "https://www.nijland.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/aantal-80/3+kamers/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+filters = ["Onder bod", "Verkocht"]
