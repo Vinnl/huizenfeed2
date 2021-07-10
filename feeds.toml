@@ -96,6 +96,7 @@ entrySelector = ".col-md-3"
 titleSelector = ".card__body"
 linkSelector = "a"
 filters = ["Verkocht"]
+timeout = 180
 
 [kraaijkamp]
 title = "Kraaijkamp Makelaars - aanbod"
