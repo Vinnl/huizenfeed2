@@ -139,3 +139,20 @@ entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 filters = ["Onder bod", "Verkocht"]
+
+[blauweeik]
+title = "Blauwe Eik makelaardij - aanbod"
+url = "https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-400000/koop/"
+entrySelector = "offer__result li"
+titleSelector = "article"
+linkSelector = "figure a"
+filters = ["Onder bod", "Verkocht", "V.O.V.", "Wil jij liever persoonlijk advies?"]
+
+#[mijnhuisverkoopikzelf]
+#title = "Mijn huis verkoop ik zelf - aanbod"
+#url = "https://www.mijnhuisverkoopikzelf.nl/aanbod/koop/stad/utrecht"
+#entrySelector = ".card"
+#titleSelector = ".card-section"
+## They only have a data-url attribute :(
+#linkSelector = "a"
+#filters = ["Onder bod", "Verkocht", "V.O.V.", "Wil jij liever persoonlijk advies?"]
