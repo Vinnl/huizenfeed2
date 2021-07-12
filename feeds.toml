@@ -171,3 +171,10 @@ url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/pr
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+
+[dekeizer]
+title = "De Keizer makelaarsgroep - aanbod"
+url = "https://www.dekeizer.nl/woningaanbod/koop/utrecht/type-appartement,woonhuis?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&orderby=9&pricerange.maxprice=400000"
+entrySelector = ".objectcontainer"
+titleSelector = ".object_data"
+linkSelector = "a.sys-property-link"
