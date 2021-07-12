@@ -157,3 +157,10 @@ filters = ["Onder bod", "Verkocht", "V.O.V.", "Wil jij liever persoonlijk advies
 ## They only have a data-url attribute :(
 #linkSelector = "a"
 #filters = ["Onder bod", "Verkocht", "V.O.V.", "Wil jij liever persoonlijk advies?"]
+
+[wd]
+title = "WD Makelaars - aanbod"
+url = "https://wdmakelaars.nl/woningen/"
+entrySelector = ".card"
+titleSelector = ".card-body"
+linkSelector = "a"
