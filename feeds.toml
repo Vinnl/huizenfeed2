@@ -171,6 +171,7 @@ url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/pr
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+timeout = 240
 
 [dekeizer]
 title = "De Keizer makelaarsgroep - aanbod"
