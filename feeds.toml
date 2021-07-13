@@ -176,9 +176,17 @@ entrySelector = ".objectcontainer"
 titleSelector = ".object_data"
 linkSelector = "a.sys-property-link"
 
-[lef]
-title = "LEF Makelaars - aanbod"
-url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_koopprijs=172500.00%2C400410.00"
-entrySelector = ".aanbod"
-titleSelector = ".row"
-linkSelector = "a.aanbod-item"
+# Disabled - doesn't seem to load
+# [lef]
+# title = "LEF Makelaars - aanbod"
+# url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_koopprijs=172500.00%2C400410.00"
+# entrySelector = ".aanbod"
+# titleSelector = ".row"
+# linkSelector = "a.aanbod-item"
+
+[makelaarsland]
+title = "Makelaarsland - aanbod"
+url = "https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&min=&max=400000&type=&kamers=3"
+entrySelector = ".m-search-result"
+titleSelector = ".m-search-result__content-wrap"
+linkSelector = ".m-search-result__content-wrap"
