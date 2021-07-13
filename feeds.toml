@@ -179,3 +179,10 @@ url = "https://www.dekeizer.nl/woningaanbod/koop/utrecht/type-appartement,woonhu
 entrySelector = ".objectcontainer"
 titleSelector = ".object_data"
 linkSelector = "a.sys-property-link"
+
+[lef]
+title = "LEF Makelaars - aanbod"
+url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_koopprijs=172500.00%2C400410.00"
+entrySelector = ".aanbod"
+titleSelector = ".row"
+linkSelector = "a.aanbod-item"
