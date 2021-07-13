@@ -1,5 +1,5 @@
 [default]
-timeout = 180
+timeout = 300
 filters = ["Onder bod", "Verkocht"]
 
 [thijssenmakelaars]
@@ -29,7 +29,6 @@ url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?e=401000"
 entrySelector = ".h-card"
 titleSelector = ".p-name"
 linkSelector = "a.home"
-timeout = 180
 
 [immo030]
 title = "IMMO 030 makelaars - aanbod"
@@ -72,7 +71,6 @@ url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewst
 entrySelector = ".objectcontainer"
 titleSelector = ".obj_address"
 linkSelector = "a.sys-property-link"
-timeout = 180
 
 [clemens]
 title = "Clemens de Korte makelaardij - aanbod"
@@ -96,7 +94,6 @@ entrySelector = ".col-md-3"
 titleSelector = ".card__body"
 linkSelector = "a"
 filters = ["Verkocht"]
-timeout = 240
 
 [kraaijkamp]
 title = "Kraaijkamp Makelaars - aanbod"
@@ -171,7 +168,6 @@ url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/pr
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
-timeout = 240
 
 [dekeizer]
 title = "De Keizer makelaarsgroep - aanbod"
