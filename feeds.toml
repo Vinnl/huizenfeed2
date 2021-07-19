@@ -46,7 +46,7 @@ waitUntilSelector = ".column"
 #entrySelector = "li.aanbodEntry"
 #titleSelector = ".addressInfo"
 #linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
+#waitUntilSelector = ".column"
 
 [molenbeek]
 title = "Molenbeek makelaars - aanbod"
