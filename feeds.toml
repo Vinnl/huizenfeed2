@@ -170,14 +170,14 @@ entrySelector = ".card"
 titleSelector = ".card-body"
 linkSelector = "a"
 
-[leuk]
-title = "leuk! makelaars - aanbod"
-url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/provincie-Utrecht/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
-timeout = 420
+#[leuk]
+#title = "leuk! makelaars - aanbod"
+#url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/provincie-Utrecht/"
+#entrySelector = "li.aanbodEntry"
+#titleSelector = ".addressInfo"
+#linkSelector = "a.aanbodEntryLink"
+#waitUntilSelector = ".column"
+#timeout = 420
 
 [dekeizer]
 title = "De Keizer makelaarsgroep - aanbod"
