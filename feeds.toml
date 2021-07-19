@@ -8,6 +8,7 @@ url = "https://www.thijssenmakelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 
 [peekenpompe]
 title = "https://www.thijssenmakelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers/"
@@ -36,6 +37,7 @@ url = "https://www.immo-030.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 
 # Disabled; fails too often.
 #[ansdewijn]
@@ -44,6 +46,7 @@ linkSelector = "a.aanbodEntryLink"
 #entrySelector = "li.aanbodEntry"
 #titleSelector = ".addressInfo"
 #linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 
 [molenbeek]
 title = "Molenbeek makelaars - aanbod"
@@ -58,6 +61,7 @@ url = "https://www.leefengeniet.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-4000
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 
 [nu]
 title = "NU makelaardij - aanbod"
@@ -65,6 +69,7 @@ url = "https://www.nu-makelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-40
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 
 [brecheisen]
 title = "Brecheisen makelaars - aanbod"
@@ -79,6 +84,7 @@ url = "https://www.clemensdekorte.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/3+
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 
 [punt]
 title = "Punt Makelaars - aanbod"
@@ -137,6 +143,7 @@ url = "https://www.nijland.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/aantal-80
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 filters = ["Onder bod", "Verkocht"]
 
 [blauweeik]
@@ -169,6 +176,7 @@ url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/pr
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 timeout = 420
 
 [dekeizer]
