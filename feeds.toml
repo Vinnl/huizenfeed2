@@ -37,12 +37,13 @@ entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 
-[ansdewijn]
-title = "Ans de Wijn woningen - aanbod"
-url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
+# Disabled; fails too often.
+#[ansdewijn]
+#title = "Ans de Wijn woningen - aanbod"
+#url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
+#entrySelector = "li.aanbodEntry"
+#titleSelector = ".addressInfo"
+#linkSelector = "a.aanbodEntryLink"
 
 [molenbeek]
 title = "Molenbeek makelaars - aanbod"
@@ -168,6 +169,7 @@ url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/pr
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+timeout = 420
 
 [dekeizer]
 title = "De Keizer makelaarsgroep - aanbod"
