@@ -1,6 +1,7 @@
 [default]
 timeout = 300
 filters = ["Onder bod", "Verkocht"]
+onFail = "stale"
 
 [thijssenmakelaars]
 title = "Paul Thijssen makelaars - aanbod"
