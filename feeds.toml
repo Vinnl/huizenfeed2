@@ -10,6 +10,7 @@ entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
+timeout = 600
 
 [peekenpompe]
 title = "https://www.thijssenmakelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers/"
@@ -86,6 +87,7 @@ entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
+timeout = 600
 
 [punt]
 title = "Punt Makelaars - aanbod"
@@ -146,6 +148,7 @@ titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
 filters = ["Onder bod", "Verkocht"]
+timeout = 600
 
 [blauweeik]
 title = "Blauwe Eik makelaardij - aanbod"
