@@ -41,14 +41,13 @@ titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
 
-# Disabled; fails too often.
-#[ansdewijn]
-#title = "Ans de Wijn woningen - aanbod"
-#url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
-#entrySelector = "li.aanbodEntry"
-#titleSelector = ".addressInfo"
-#linkSelector = "a.aanbodEntryLink"
-#waitUntilSelector = ".column"
+[ansdewijn]
+title = "Ans de Wijn woningen - aanbod"
+url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 
 [molenbeek]
 title = "Molenbeek makelaars - aanbod"
@@ -65,13 +64,13 @@ titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
 
-#[nu]
-#title = "NU makelaardij - aanbod"
-#url = "https://www.nu-makelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-400000/koop/provincie-Utrecht/"
-#entrySelector = "li.aanbodEntry"
-#titleSelector = ".addressInfo"
-#linkSelector = "a.aanbodEntryLink"
-#waitUntilSelector = ".column"
+[nu]
+title = "NU makelaardij - aanbod"
+url = "https://www.nu-makelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-400000/koop/provincie-Utrecht/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 
 [brecheisen]
 title = "Brecheisen makelaars - aanbod"
@@ -174,14 +173,14 @@ entrySelector = ".card"
 titleSelector = ".card-body"
 linkSelector = "a"
 
-#[leuk]
-#title = "leuk! makelaars - aanbod"
-#url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/provincie-Utrecht/"
-#entrySelector = "li.aanbodEntry"
-#titleSelector = ".addressInfo"
-#linkSelector = "a.aanbodEntryLink"
-#waitUntilSelector = ".column"
-#timeout = 420
+[leuk]
+title = "leuk! makelaars - aanbod"
+url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/provincie-Utrecht/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
+timeout = 420
 
 [dekeizer]
 title = "De Keizer makelaarsgroep - aanbod"
@@ -190,13 +189,12 @@ entrySelector = ".objectcontainer"
 titleSelector = ".object_data"
 linkSelector = "a.sys-property-link"
 
-# Disabled - doesn't seem to load
-# [lef]
-# title = "LEF Makelaars - aanbod"
-# url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_koopprijs=172500.00%2C400410.00"
-# entrySelector = ".aanbod"
-# titleSelector = ".row"
-# linkSelector = "a.aanbod-item"
+[lef]
+title = "LEF Makelaars - aanbod"
+url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_koopprijs=172500.00%2C400410.00"
+entrySelector = ".aanbod"
+titleSelector = ".row"
+linkSelector = "a.aanbod-item"
 
 [makelaarsland]
 title = "Makelaarsland - aanbod"
