@@ -26,12 +26,20 @@ entrySelector = ".horizon"
 titleSelector = "h3"
 linkSelector = "a.overlay-link"
 
-[rvl]
-title = "Rosenberg Van Leusden makelaars - aanbod"
-url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?e=401000"
-entrySelector = ".h-card"
-titleSelector = ".p-name"
-linkSelector = "a.home"
+# This seems to cause the following error every time:
+#
+#  /root/.npm/_npx/c0ae1d6b0ee8a614/node_modules/playwright-firefox/lib/server/firefox/ffPage.js:258
+#      this._page._addConsoleMessage(type, args.map(arg => context.createHandle(arg)), location);
+#                                                                  ^
+#  TypeError: Cannot read property 'createHandle' of undefined
+#      at /root/.npm/_npx/c0ae1d6b0ee8a614/node_modules/playwright-firefox/lib/server/firefox/ffPage.js:258:65
+#
+#[rvl]
+#title = "Rosenberg Van Leusden makelaars - aanbod"
+#url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?e=401000"
+#entrySelector = ".h-card"
+#titleSelector = ".p-name"
+#linkSelector = "a.home"
 
 [immo030]
 title = "IMMO 030 makelaars - aanbod"
