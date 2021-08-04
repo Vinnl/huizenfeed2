@@ -1,6 +1,6 @@
 [default]
 timeout = 300
-filters = ["Onder bod", "Verkocht"]
+filters = ["Onder bod", "Verkocht", "VERKOCHT"]
 onFail = "stale"
 
 [thijssenmakelaars]
