@@ -1,8 +1,8 @@
 pages:
   stage: deploy
-  image: mcr.microsoft.com/playwright
+  image: mcr.microsoft.com/playwright:v1.12.3-focal
   script:
-  - su - pwuser -c 'DEBUG=info npx feed-me-up-scotty@main'
+  - DEBUG=info npx feed-me-up-scotty@main
   artifacts:
     paths:
     - public
