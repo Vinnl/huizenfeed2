@@ -3,6 +3,7 @@ pages:
   image: mcr.microsoft.com/playwright
   script:
   - su pwuser
+  - npm install playwright-firefox
   - DEBUG=info npx feed-me-up-scotty@main
   artifacts:
     paths:
