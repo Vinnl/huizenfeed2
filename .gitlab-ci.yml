@@ -2,9 +2,7 @@ pages:
   stage: deploy
   image: mcr.microsoft.com/playwright
   script:
-  - su pwuser
-  - npm install playwright-firefox
-  - DEBUG=info npx feed-me-up-scotty@main
+  - su - pwuser -c 'DEBUG=info npx feed-me-up-scotty@main'
   artifacts:
     paths:
     - public
