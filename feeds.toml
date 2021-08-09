@@ -80,12 +80,14 @@ titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
 
-[brecheisen]
-title = "Brecheisen makelaars - aanbod"
-url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=7&pricerange.maxprice=400000"
-entrySelector = ".objectcontainer"
-titleSelector = ".obj_address"
-linkSelector = "a.sys-property-link"
+# This one seems to frequently cause problems for Playwright, something about
+#      TypeError: Cannot read property 'createHandle' of undefined
+#[brecheisen]
+#title = "Brecheisen makelaars - aanbod"
+#url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=7&pricerange.maxprice=400000"
+#entrySelector = ".objectcontainer"
+#titleSelector = ".obj_address"
+#linkSelector = "a.sys-property-link"
 
 # This one seems to frequently cause problems for Playwright, something about
 #      TypeError: Cannot read property 'createHandle' of undefined
