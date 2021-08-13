@@ -216,3 +216,10 @@ url = "https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&min=&max=400000&type=
 entrySelector = ".m-search-result"
 titleSelector = ".m-search-result__content-wrap"
 linkSelector = ".m-search-result__content-wrap"
+
+[hanasbei]
+title = "Hanasbei makelaardij - aanbod"
+url = "https://www.hanasbeimakelaardij.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
