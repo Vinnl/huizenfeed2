@@ -26,20 +26,12 @@ entrySelector = ".horizon"
 titleSelector = "h3"
 linkSelector = "a.overlay-link"
 
-# This seems to cause the following error every time:
-#
-#  /root/.npm/_npx/c0ae1d6b0ee8a614/node_modules/playwright-firefox/lib/server/firefox/ffPage.js:258
-#      this._page._addConsoleMessage(type, args.map(arg => context.createHandle(arg)), location);
-#                                                                  ^
-#  TypeError: Cannot read property 'createHandle' of undefined
-#      at /root/.npm/_npx/c0ae1d6b0ee8a614/node_modules/playwright-firefox/lib/server/firefox/ffPage.js:258:65
-#
-#[rvl]
-#title = "Rosenberg Van Leusden makelaars - aanbod"
-#url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?e=401000"
-#entrySelector = ".h-card"
-#titleSelector = ".p-name"
-#linkSelector = "a.home"
+[rvl]
+title = "Rosenberg Van Leusden makelaars - aanbod"
+url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?e=401000"
+entrySelector = ".h-card"
+titleSelector = ".p-name"
+linkSelector = "a.home"
 
 [immo030]
 title = "IMMO 030 makelaars - aanbod"
@@ -80,35 +72,29 @@ titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
 
-# This one seems to frequently cause problems for Playwright, something about
-#      TypeError: Cannot read property 'createHandle' of undefined
-#[brecheisen]
-#title = "Brecheisen makelaars - aanbod"
-#url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=7&pricerange.maxprice=400000"
-#entrySelector = ".objectcontainer"
-#titleSelector = ".obj_address"
-#linkSelector = "a.sys-property-link"
+[brecheisen]
+title = "Brecheisen makelaars - aanbod"
+url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=7&pricerange.maxprice=400000"
+entrySelector = ".objectcontainer"
+titleSelector = ".obj_address"
+linkSelector = "a.sys-property-link"
 
-# This one seems to frequently cause problems for Playwright, something about
-#      TypeError: Cannot read property 'createHandle' of undefined
-#[clemens]
-#title = "Clemens de Korte makelaardij - aanbod"
-#url = "https://www.clemensdekorte.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/3+kamers/"
-#entrySelector = "li.aanbodEntry"
-#titleSelector = ".addressInfo"
-#linkSelector = "a.aanbodEntryLink"
-#waitUntilSelector = ".column"
-#timeout = 600
+[clemens]
+title = "Clemens de Korte makelaardij - aanbod"
+url = "https://www.clemensdekorte.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/3+kamers/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
+timeout = 600
 
-# This one seems to frequently cause problems for Playwright, something about
-#      TypeError: Cannot read property 'createHandle' of undefined
-#[punt]
-#title = "Punt Makelaars - aanbod"
-#url = "https://puntmakelaars.nl/nl/aanbod/woningen/?q=&typeBouw=appartement&typeBouw=woning&typeWoning=tussenwoning&typeWoning=portiekflat&typeWoning=bovenwoning&typeWoning=benedenwoning&typeWoning=hoekwoning&typeWoning=galerijflat&typeWoning=portiekwoning&typeWoning=eindwoning&typeWoning=maisonnette&typeWoning=vrijstaande+woning&typeWoning=2-onder-1-kapwoning&typeWoning=halfvrijstaande+woning&typeWoning=geschakelde+2-onder-1-kapwoning&typeWoning=penthouse&typeWoning=beneden+%2B+bovenwoning&typeWoning=geschakelde+woning&typeWoning=tussenverdieping&typeWoning=verspringend&prijs=0-20000&prijs=20000-40000&prijs=40000-60000&prijs=60000-80000&prijs=80000-100000&prijs=100000-125000&prijs=125000-150000&prijs=150000-175000&prijs=175000-200000&prijs=200000-250000&prijs=250000-300000&prijs=300000-350000&prijs=350000-400000"
-#entrySelector = "ul.listHouses li"
-#titleSelector = ".houseOverviewPopup"
-#linkSelector = "a"
-#filters = ["Kantoor", "Schrijf je nu in", "Verkocht"]
+[punt]
+title = "Punt Makelaars - aanbod"
+url = "https://puntmakelaars.nl/nl/aanbod/woningen/?q=&typeBouw=appartement&typeBouw=woning&typeWoning=tussenwoning&typeWoning=portiekflat&typeWoning=bovenwoning&typeWoning=benedenwoning&typeWoning=hoekwoning&typeWoning=galerijflat&typeWoning=portiekwoning&typeWoning=eindwoning&typeWoning=maisonnette&typeWoning=vrijstaande+woning&typeWoning=2-onder-1-kapwoning&typeWoning=halfvrijstaande+woning&typeWoning=geschakelde+2-onder-1-kapwoning&typeWoning=penthouse&typeWoning=beneden+%2B+bovenwoning&typeWoning=geschakelde+woning&typeWoning=tussenverdieping&typeWoning=verspringend&prijs=0-20000&prijs=20000-40000&prijs=40000-60000&prijs=60000-80000&prijs=80000-100000&prijs=100000-125000&prijs=125000-150000&prijs=150000-175000&prijs=175000-200000&prijs=200000-250000&prijs=250000-300000&prijs=300000-350000&prijs=350000-400000"
+entrySelector = "ul.listHouses li"
+titleSelector = ".houseOverviewPopup"
+linkSelector = "a"
+filters = ["Kantoor", "Schrijf je nu in", "Verkocht"]
 
 [ingridvaneck]
 title = "Ingrid van Eck Makelardij - aanbod"
