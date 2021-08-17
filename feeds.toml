@@ -209,3 +209,10 @@ url = "https://www.hanasbeimakelaardij.nl/aanbod/woningaanbod/beschikbaar/-40000
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+
+[gradajager]
+title = "Grada Jager makelaardij - aanbod"
+url = "https://www.gradajager.nl/aanbod/woningaanbod/UTRECHT/75+woonopp/-400000/koop/3+kamers/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
