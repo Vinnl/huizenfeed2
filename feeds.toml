@@ -224,3 +224,10 @@ entrySelector = ".thumbs-item"
 titleSelector = "h3"
 linkSelector = ".slick-slide a"
 filters = ["Onder bod", "Verkocht", "VERKOCHT", "Amsterdam", "Nieuwegein", "Zeist", "De Bilt", "Bilthoven", "Bosch en Duin"]
+
+[quist]
+title = "Quist makelaardij - aanbod"
+url = "https://www.quistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/3+kamers/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
