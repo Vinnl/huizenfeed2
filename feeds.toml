@@ -216,3 +216,11 @@ url = "https://www.gradajager.nl/aanbod/woningaanbod/UTRECHT/75+woonopp/-400000/
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+
+[coversjonker]
+title = "Covers & Jonker Makelaars - aanbod"
+url = "https://coversjonker.nl/aanbod/koop?price_buy=0_500"
+entrySelector = ".thumbs-item"
+titleSelector = "h3"
+linkSelector = ".slick-slide a"
+filters = ["Onder bod", "Verkocht", "VERKOCHT", "Amsterdam", "Nieuwegein", "Zeist", "De Bilt", "Bilthoven", "Bosch en Duin"]
