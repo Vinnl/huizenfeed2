@@ -231,3 +231,11 @@ url = "https://www.quistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
+
+[lauteslager]
+title = "Lauteslager Makelaar - aanbod"
+url = "https://www.lauteslager.nl/nl/aanbod?type=koop&plaats=utrecht&s=&prijs_test%5Bmin%5D=&prijs_test%5Bmax%5D=400000&aantalKamers%5B%5D=3&aantalKamers%5B%5D=&woonoppervlakte%5B%5D=65msup2sup&woonoppervlakte%5B%5D="
+entrySelector = ".offer-list-item"
+titleSelector = ".item-data h1"
+linkSelector = "a.primary-btn"
+waitUntil = "networkidle"
