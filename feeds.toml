@@ -239,3 +239,12 @@ entrySelector = ".offer-list-item"
 titleSelector = ".item-data h1"
 linkSelector = "a.primary-btn"
 waitUntil = "networkidle"
+
+[vanscherpenzeel]
+title = "Van Scherpenzeel Makelaars - aanbod"
+url = "https://vanscherpenzeel.nl/woningen/makelaar/935799"
+entrySelector = "#entity-items .woning"
+titleSelector = "h2 a:last-child"
+linkSelector = "h2 a.overlay"
+matchAllOf = ["Utrecht", "Beschikbaar"]
+waitUntil = "networkidle"
