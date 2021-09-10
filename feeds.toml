@@ -4,7 +4,7 @@ filters = ["Onder bod", "Verkocht", "VERKOCHT"]
 onFail = "stale"
 
 [thijssenmakelaars]
-title = "Paul Thijssen makelaars - aanbod"
+title = "Paul Thijssen makelaars"
 url = "https://www.thijssenmakelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
@@ -20,21 +20,21 @@ titleSelector = ".card-object-address"
 linkSelector = ".card-object-address"
 
 [moib]
-title = "MOIB makelaars - aanbod"
+title = "MOIB makelaars"
 url = "https://moib.nl/aanbod/"
 entrySelector = ".horizon"
 titleSelector = "h3"
 linkSelector = "a.overlay-link"
 
 [rvl]
-title = "Rosenberg Van Leusden makelaars - aanbod"
+title = "Rosenberg Van Leusden makelaars"
 url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?e=401000"
 entrySelector = ".h-card"
 titleSelector = ".p-name"
 linkSelector = "a.home"
 
 [immo030]
-title = "IMMO 030 makelaars - aanbod"
+title = "IMMO 030 makelaars"
 url = "https://www.immo-030.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
@@ -42,7 +42,7 @@ linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
 
 [ansdewijn]
-title = "Ans de Wijn woningen - aanbod"
+title = "Ans de Wijn woningen"
 url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
@@ -50,14 +50,14 @@ linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
 
 [molenbeek]
-title = "Molenbeek makelaars - aanbod"
+title = "Molenbeek makelaars"
 url = "https://molenbeek.nl/wonen/aanbod?buyOrRent=buy&maxPrice=400000&amountOfRooms=3&textSearch=Utrecht&orderBy=created_at&orderDirection=desc"
 entrySelector = ".grid-objects__item"
 titleSelector = ".card--default__body"
 linkSelector = "a.card--object"
 
 [pauldijkstra]
-title = "Paul Dijkstra makelaars - aanbod"
+title = "Paul Dijkstra makelaars"
 url = "https://www.leefengeniet.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-400000/koop/provincie-Utrecht/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
@@ -65,7 +65,7 @@ linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
 
 [nu]
-title = "NU makelaardij - aanbod"
+title = "NU makelaardij"
 url = "https://www.nu-makelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-400000/koop/provincie-Utrecht/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
@@ -73,14 +73,14 @@ linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
 
 [brecheisen]
-title = "Brecheisen makelaars - aanbod"
+title = "Brecheisen makelaars"
 url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=7&pricerange.maxprice=400000"
 entrySelector = ".objectcontainer"
 titleSelector = ".obj_address"
 linkSelector = "a.sys-property-link"
 
 [clemens]
-title = "Clemens de Korte makelaardij - aanbod"
+title = "Clemens de Korte makelaardij"
 url = "https://www.clemensdekorte.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/3+kamers/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
@@ -89,7 +89,7 @@ waitUntilSelector = ".column"
 timeout = 600
 
 [punt]
-title = "Punt Makelaars - aanbod"
+title = "Punt Makelaars"
 url = "https://puntmakelaars.nl/nl/aanbod/woningen/?q=&typeBouw=appartement&typeBouw=woning&typeWoning=tussenwoning&typeWoning=portiekflat&typeWoning=bovenwoning&typeWoning=benedenwoning&typeWoning=hoekwoning&typeWoning=galerijflat&typeWoning=portiekwoning&typeWoning=eindwoning&typeWoning=maisonnette&typeWoning=vrijstaande+woning&typeWoning=2-onder-1-kapwoning&typeWoning=halfvrijstaande+woning&typeWoning=geschakelde+2-onder-1-kapwoning&typeWoning=penthouse&typeWoning=beneden+%2B+bovenwoning&typeWoning=geschakelde+woning&typeWoning=tussenverdieping&typeWoning=verspringend&prijs=0-20000&prijs=20000-40000&prijs=40000-60000&prijs=60000-80000&prijs=80000-100000&prijs=100000-125000&prijs=125000-150000&prijs=150000-175000&prijs=175000-200000&prijs=200000-250000&prijs=250000-300000&prijs=300000-350000&prijs=350000-400000"
 entrySelector = "ul.listHouses li"
 titleSelector = ".houseOverviewPopup"
@@ -97,7 +97,7 @@ linkSelector = "a"
 filters = ["Kantoor", "Schrijf je nu in", "Verkocht"]
 
 [ingridvaneck]
-title = "Ingrid van Eck Makelardij - aanbod"
+title = "Ingrid van Eck Makelardij"
 url = "https://www.ingridvaneck.nl/te-koop/"
 entrySelector = ".col-md-3"
 titleSelector = ".card__body"
@@ -105,7 +105,7 @@ linkSelector = "a"
 filters = ["Verkocht"]
 
 [kraaijkamp]
-title = "Kraaijkamp Makelaars - aanbod"
+title = "Kraaijkamp Makelaars"
 url = [
 	"https://www.kraaijkampmakelaars.nl/object_overview.php?f_show=list&f_sate=norm&f_type=&f_sort=price&f_ordr=DESC&f_pnum=1&f_pmin=&f_pmax=400000&f_smin=&f_smax=&f_city=Utrecht&f_dist=5000",
 	"https://www.kraaijkampmakelaars.nl/object_overview.php?f_show=list&f_sate=norm&f_type=&f_sort=price&f_ordr=DESC&f_pnum=2&f_pmin=&f_pmax=400000&f_smin=&f_smax=&f_city=Utrecht&f_dist=5000"
@@ -116,7 +116,7 @@ linkSelector = "a.link_invis"
 filters = ["sold"]
 
 [gustocasa]
-title = "Gusto Casa - aanbod"
+title = "Gusto Casa"
 url = "https://www.gustocasa.nl/woningen/?status=beschikbaar&type=&prijsvan=&prijstot=450000&orderby=status%3Aasc"
 entrySelector = ".woning"
 titleSelector = ".item-content-inner"
@@ -124,7 +124,7 @@ linkSelector = "a.thumbnail"
 filters = ["EINDHOVEN"]
 
 [walton]
-title = "Walton Makelaars - aanbod"
+title = "Walton Makelaars"
 url = "https://www.walton.nl/nieuw-in-verkoop-makelaar"
 entrySelector = ".object"
 titleSelector = "h4"
@@ -132,7 +132,7 @@ linkSelector = "a.adreslink"
 filters = ["Onder bod", "Verkocht"]
 
 [huf]
-title = "Makelaardij Huf - aanbod"
+title = "Makelaardij Huf"
 url = "https://www.makelaardijhuf.nl/aanbod"
 entrySelector = ".object"
 titleSelector = "h4"
@@ -140,7 +140,7 @@ linkSelector = "a.adreslink"
 filters = ["Onder bod", "Verkocht", "Zeist", "Meern", "Hilversum"]
 
 [nijland]
-title = "Nijland Makelaars - aanbod"
+title = "Nijland Makelaars"
 url = "https://www.nijland.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/aantal-80/3+kamers/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
@@ -150,7 +150,7 @@ filters = ["Onder bod", "Verkocht"]
 timeout = 600
 
 [blauweeik]
-title = "Blauwe Eik makelaardij - aanbod"
+title = "Blauwe Eik makelaardij"
 url = "https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-400000/koop/"
 entrySelector = "offer__result li"
 titleSelector = "article"
@@ -158,7 +158,7 @@ linkSelector = "figure a"
 filters = ["Onder bod", "Verkocht", "V.O.V.", "Wil jij liever persoonlijk advies?"]
 
 #[mijnhuisverkoopikzelf]
-#title = "Mijn huis verkoop ik zelf - aanbod"
+#title = "Mijn huis verkoop ik zelf"
 #url = "https://www.mijnhuisverkoopikzelf.nl/aanbod/koop/stad/utrecht"
 #entrySelector = ".card"
 #titleSelector = ".card-section"
@@ -167,14 +167,14 @@ filters = ["Onder bod", "Verkocht", "V.O.V.", "Wil jij liever persoonlijk advies
 #filters = ["Onder bod", "Verkocht", "V.O.V.", "Wil jij liever persoonlijk advies?"]
 
 [wd]
-title = "WD Makelaars - aanbod"
+title = "WD Makelaars"
 url = "https://wdmakelaars.nl/woningen/"
 entrySelector = ".card"
 titleSelector = ".card-body"
 linkSelector = "a"
 
 [leuk]
-title = "leuk! makelaars - aanbod"
+title = "leuk! makelaars"
 url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/provincie-Utrecht/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
@@ -183,42 +183,42 @@ waitUntilSelector = ".column"
 timeout = 420
 
 [dekeizer]
-title = "De Keizer makelaarsgroep - aanbod"
+title = "De Keizer makelaarsgroep"
 url = "https://www.dekeizer.nl/woningaanbod/koop/utrecht/type-appartement,woonhuis?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&orderby=9&pricerange.maxprice=400000"
 entrySelector = ".objectcontainer"
 titleSelector = ".object_data"
 linkSelector = "a.sys-property-link"
 
 [lef]
-title = "LEF Makelaars - aanbod"
+title = "LEF Makelaars"
 url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_koopprijs=172500.00%2C400410.00"
 entrySelector = ".aanbod"
 titleSelector = ".row"
 linkSelector = "a.aanbod-item"
 
 [makelaarsland]
-title = "Makelaarsland - aanbod"
+title = "Makelaarsland"
 url = "https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&min=&max=400000&type=&kamers=3"
 entrySelector = ".m-search-result"
 titleSelector = ".m-search-result__content-wrap"
 linkSelector = ".m-search-result__content-wrap"
 
 [hanasbei]
-title = "Hanasbei makelaardij - aanbod"
+title = "Hanasbei makelaardij"
 url = "https://www.hanasbeimakelaardij.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 
 [gradajager]
-title = "Grada Jager makelaardij - aanbod"
+title = "Grada Jager makelaardij"
 url = "https://www.gradajager.nl/aanbod/woningaanbod/UTRECHT/75+woonopp/-400000/koop/3+kamers/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 
 [coversjonker]
-title = "Covers & Jonker Makelaars - aanbod"
+title = "Covers & Jonker Makelaars"
 url = "https://coversjonker.nl/aanbod/koop?price_buy=0_500"
 entrySelector = ".thumbs-item"
 titleSelector = "h3"
@@ -226,14 +226,14 @@ linkSelector = ".slick-slide a"
 filters = ["Onder bod", "Verkocht", "VERKOCHT", "Amsterdam", "Nieuwegein", "Zeist", "De Bilt", "Bilthoven", "Bosch en Duin"]
 
 [quist]
-title = "Quist makelaardij - aanbod"
+title = "Quist makelaardij"
 url = "https://www.quistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/3+kamers/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 
 [lauteslager]
-title = "Lauteslager Makelaar - aanbod"
+title = "Lauteslager Makelaar"
 url = "https://www.lauteslager.nl/nl/aanbod?type=koop&plaats=utrecht&s=&prijs_test%5Bmin%5D=&prijs_test%5Bmax%5D=400000&aantalKamers%5B%5D=3&aantalKamers%5B%5D=&woonoppervlakte%5B%5D=65msup2sup&woonoppervlakte%5B%5D="
 entrySelector = ".offer-list-item"
 titleSelector = ".item-data h1"
@@ -241,7 +241,7 @@ linkSelector = "a.primary-btn"
 waitUntil = "networkidle"
 
 [vanscherpenzeel]
-title = "Van Scherpenzeel Makelaars - aanbod"
+title = "Van Scherpenzeel Makelaars"
 url = "https://vanscherpenzeel.nl/woningen/makelaar/935799"
 entrySelector = "#entity-items .woning"
 titleSelector = "h2 a:last-child"
