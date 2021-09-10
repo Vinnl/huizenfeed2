@@ -248,3 +248,11 @@ titleSelector = "h2 a:last-child"
 linkSelector = "h2 a.overlay"
 matchAllOf = ["Utrecht", "Beschikbaar"]
 waitUntil = "networkidle"
+
+[era]
+title = "ERA Makelaardij Utrecht"
+url = "https://www.makelaardijutrecht.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/75+woonopp/-400000/koop/2+kamers/"
+entrySelector = "li.aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
