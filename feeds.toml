@@ -272,3 +272,11 @@ entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
+
+[patist]
+title = "Patist Makelaardij Utrecht"
+url = "https://www.patistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/75+woonopp/-400000/koop/2+kamers/"
+entrySelector = ".aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
