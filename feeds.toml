@@ -295,3 +295,11 @@ entrySelector = ".aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
+
+[wvo]
+title = "WVO makelaars"
+url = "https://www.wvo.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/75+woonopp/-400000/koop/2+kamers/"
+entrySelector = ".aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
