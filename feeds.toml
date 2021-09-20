@@ -287,3 +287,11 @@ url = "https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht?locationof
 entrySelector = ".objectcontainer"
 titleSelector = ".obj_address"
 linkSelector = ".obj_address a"
+
+[sino]
+title = "Si-No Makelaars"
+url = "https://www.si-no.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/75+woonopp/-400000/koop/2+kamers/"
+entrySelector = ".aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
