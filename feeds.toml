@@ -280,3 +280,10 @@ entrySelector = ".aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
+
+[janwolters]
+title = "Jan Wolters Makelaardij"
+url = "https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht?locationofinterest=Utrecht&minlivablearea=75&minrooms=3&moveunavailablelistingstothebottom=true&orderby=3&pricerange.maxprice=400000"
+entrySelector = ".objectcontainer"
+titleSelector = ".obj_address"
+linkSelector = ".obj_address a"
