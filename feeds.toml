@@ -212,7 +212,7 @@ linkSelector = "a.aanbodEntryLink"
 
 [gradajager]
 title = "Grada Jager makelaardij"
-url = "https://www.gradajager.nl/aanbod/woningaanbod/UTRECHT/75+woonopp/-400000/koop/3+kamers/"
+url = "https://www.gradajager.nl/aanbod/woningaanbod/UTRECHT/70+woonopp/-400000/koop/3+kamers/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
@@ -251,7 +251,7 @@ waitUntil = "networkidle"
 
 [era]
 title = "ERA Makelaardij Utrecht"
-url = "https://www.makelaardijutrecht.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/75+woonopp/-400000/koop/2+kamers/"
+url = "https://www.makelaardijutrecht.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
@@ -267,7 +267,7 @@ matchAllOf = ["BESCHIKBAAR"]
 
 [van-doorn]
 title = "Van Doorn Makelaardij Utrecht"
-url = "https://www.van-doorn.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/75+woonopp/-400000/koop/2+kamers/"
+url = "https://www.van-doorn.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
 entrySelector = "li.aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
@@ -275,7 +275,7 @@ waitUntilSelector = ".column"
 
 [patist]
 title = "Patist Makelaardij Utrecht"
-url = "https://www.patistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/75+woonopp/-400000/koop/2+kamers/"
+url = "https://www.patistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
 entrySelector = ".aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
@@ -290,7 +290,7 @@ linkSelector = ".obj_address a"
 
 [sino]
 title = "Si-No Makelaars"
-url = "https://www.si-no.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/75+woonopp/-400000/koop/2+kamers/"
+url = "https://www.si-no.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
 entrySelector = ".aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
@@ -298,7 +298,7 @@ waitUntilSelector = ".column"
 
 [wvo]
 title = "WVO makelaars"
-url = "https://www.wvo.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/75+woonopp/-400000/koop/2+kamers/"
+url = "https://www.wvo.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
 entrySelector = ".aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
