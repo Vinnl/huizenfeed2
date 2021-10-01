@@ -2,133 +2,76 @@
 timeout = 300
 filters = ["Onder bod", "Verkocht", "VERKOCHT"]
 onFail = "stale"
+entrySelector = ".aanbodEntry"
+titleSelector = ".addressInfo"
+linkSelector = "a.aanbodEntryLink"
+waitUntilSelector = ".column"
 
 [thijssenmakelaars]
 title = "Paul Thijssen makelaars"
 url = "https://www.thijssenmakelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 timeout = 600
 
 [immo030]
 title = "IMMO 030 makelaars"
 url = "https://www.immo-030.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/2+kamers/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 
 [ansdewijn]
 title = "Ans de Wijn woningen"
 url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 
 [pauldijkstra]
 title = "Paul Dijkstra makelaars"
 url = "https://www.leefengeniet.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-400000/koop/provincie-Utrecht/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 
 [nu]
 title = "NU makelaardij"
 url = "https://www.nu-makelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/-400000/koop/provincie-Utrecht/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 
 [clemens]
 title = "Clemens de Korte makelaardij"
 url = "https://www.clemensdekorte.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/3+kamers/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 timeout = 600
 
 [nijland]
 title = "Nijland Makelaars"
 url = "https://www.nijland.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/aantal-80/3+kamers/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 filters = ["Onder bod", "Verkocht"]
 timeout = 600
 
 [leuk]
 title = "leuk! makelaars"
 url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/provincie-Utrecht/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 timeout = 420
 
 [hanasbei]
 title = "Hanasbei makelaardij"
 url = "https://www.hanasbeimakelaardij.nl/aanbod/woningaanbod/beschikbaar/-400000/koop/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
 
 [gradajager]
 title = "Grada Jager makelaardij"
 url = "https://www.gradajager.nl/aanbod/woningaanbod/UTRECHT/70+woonopp/-400000/koop/3+kamers/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
 
 [quist]
 title = "Quist makelaardij"
 url = "https://www.quistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/-400000/koop/3+kamers/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
 
 [era]
 title = "ERA Makelaardij Utrecht"
 url = "https://www.makelaardijutrecht.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 
 [van-doorn]
 title = "Van Doorn Makelaardij Utrecht"
 url = "https://www.van-doorn.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
-entrySelector = "li.aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 
 [patist]
 title = "Patist Makelaardij Utrecht"
 url = "https://www.patistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
-entrySelector = ".aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 
 [sino]
 title = "Si-No Makelaars"
 url = "https://www.si-no.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
-entrySelector = ".aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
 
 [wvo]
 title = "WVO makelaars"
 url = "https://www.wvo.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/70+woonopp/-400000/koop/2+kamers/"
-entrySelector = ".aanbodEntry"
-titleSelector = ".addressInfo"
-linkSelector = "a.aanbodEntryLink"
-waitUntilSelector = ".column"
