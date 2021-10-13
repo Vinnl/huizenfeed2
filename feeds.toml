@@ -99,3 +99,19 @@ url = "https://www.basmakelaars.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/65+wo
 [drostedevries]
 title = "Droste De Vries Makelaars"
 url = "https://www.drostedevries.com/aanbod/woningaanbod/UTRECHT/beschikbaar/65+woonopp/-400000/koop/2+kamers/"
+
+[april]
+title = "April makelaars"
+url = "https://www.aprilmakelaars.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/65+woonopp/-400000/koop/2+kamers/"
+
+[jvdlmakelaardij]
+title = "Jos van der Linden Makelaardij"
+url = "https://www.jvdlmakelaardij.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/65+woonopp/-400000/koop/2+kamers/"
+
+[vanasenvanhooff]
+title = "Van As & Van Hooff Makelaars"
+url = "http://www.vanasenvanhooff.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/65+woonopp/-400000/koop/2+kamers/"
+
+[welwonend]
+title = "Welwonend Makelaardij"
+url = "http://www.welwonend.nl/aanbod/woningaanbod/UTRECHT/beschikbaar/65+woonopp/-400000/koop/2+kamers/"
