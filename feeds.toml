@@ -6,6 +6,7 @@ entrySelector = ".aanbodEntry"
 titleSelector = ".addressInfo"
 linkSelector = "a.aanbodEntryLink"
 waitUntilSelector = ".column"
+waitUntil = "load"
 
 [thijssenmakelaars]
 title = "Paul Thijssen makelaars"
