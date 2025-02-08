@@ -10,109 +10,109 @@ waitUntil = "load"
 
 [thijssenmakelaars]
 title = "Paul Thijssen makelaars"
-url = "https://www.thijssenmakelaars.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.thijssenmakelaars.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 timeout = 600
 
 [immo030]
 title = "IMMO 030 makelaars"
-url = "https://www.immo-030.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.immo-030.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [ansdewijn]
 title = "Ans de Wijn woningen"
-url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.ansdewijnwoningen.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [pauldijkstra]
 title = "Paul Dijkstra makelaars"
-url = "https://www.leefengeniet.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.leefengeniet.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [nu]
 title = "NU makelaardij"
-url = "https://www.nu-makelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.nu-makelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [clemens]
 title = "Clemens de Korte makelaardij"
-url = "https://www.clemensdekorte.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.clemensdekorte.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 timeout = 600
 
 [nijland]
 title = "Nijland Makelaars"
-url = "https://www.nijland.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.nijland.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 filters = ["Onder bod", "Verkocht"]
 timeout = 600
 
 [leuk]
 title = "leuk! makelaars"
-url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.leuk-makelaars.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 timeout = 420
 
 [hanasbei]
 title = "Hanasbei makelaardij"
-url = "https://www.hanasbeimakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.hanasbeimakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [gradajager]
 title = "Grada Jager makelaardij"
-url = "https://www.gradajager.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.gradajager.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [quist]
 title = "Quist makelaardij"
-url = "https://www.quistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.quistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [era]
 title = "ERA Makelaardij Utrecht"
-url = "https://www.makelaardijutrecht.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.makelaardijutrecht.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [van-doorn]
 title = "Van Doorn Makelaardij Utrecht"
-url = "https://www.van-doorn.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.van-doorn.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [patist]
 title = "Patist Makelaardij Utrecht"
-url = "https://www.patistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.patistmakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [sino]
 title = "Si-No Makelaars"
-url = "https://www.si-no.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.si-no.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [wvo]
 title = "WVO makelaars"
-url = "https://www.wvo.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.wvo.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [roeldemakelaar]
 title = "Roel de makelaar"
-url = "https://www.roeldemakelaar.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.roeldemakelaar.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [renkemajansen]
 title = "Renkema & Jansen Makelaars"
-url = "https://www.renkemajansen.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.renkemajansen.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [pauwmakelaardij]
 title = "Pauw Makelaardij"
-url = "https://www.pauwmakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.pauwmakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [eramakelaardijutrecht]
 title = "Makelaardij Utrecht"
-url = "https://www.eramakelaardijutrecht.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.eramakelaardijutrecht.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [basmakelaars]
 title = "Bas Makelaars"
-url = "https://www.basmakelaars.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.basmakelaars.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [drostedevries]
 title = "Droste De Vries Makelaars"
-url = "https://www.drostedevries.com/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.drostedevries.com/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [april]
 title = "April makelaars"
-url = "https://www.aprilmakelaars.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.aprilmakelaars.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [jvdlmakelaardij]
 title = "Jos van der Linden Makelaardij"
-url = "https://www.jvdlmakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "https://www.jvdlmakelaardij.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [vanasenvanhooff]
 title = "Van As & Van Hooff Makelaars"
-url = "http://www.vanasenvanhooff.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "http://www.vanasenvanhooff.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
 
 [welwonend]
 title = "Welwonend Makelaardij"
-url = "http://www.welwonend.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/
+url = "http://www.welwonend.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-700000/koop/4+kamers/"
