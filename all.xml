@@ -2,118 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed2/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-23T05:44:01.445Z</updated>
+    <updated>2025-04-23T17:43:02.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Grietstraat 1 BS 
-				
-			3514 VH
-			Utrecht (Nijland Makelaars)]]></title>
-        <id>https://www.nijland.nl/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/</id>
-        <link href="https://www.nijland.nl/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/"/>
-        <updated>2025-03-17T17:40:59.864Z</updated>
-        <content type="html"><![CDATA[<div class="vakfoto" id="generated_id90293_68733771"><div class="spotlight-invisible objectstatus theme-j" id="generated_id90293_68733772">
-		
-			
-	
-					
-	<div class="tekoop "><span></span>
-			<span class="objectstatusbanner bannerstatustekoop"> Te koop</span>
-		</div>
-</div>
-
-<div class="vaklink" id="generated_id90293_68733773">	<div class="tooltip-wrapper tooltip-favoritebutton" id="generated_id90293_68733775"><div class="tooltip"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-check fa-stack-1x fa-inverse"></i></span> <span id="woningSaved" class="hide">Woning is opgeslagen</span><span id="woningSave" class="hide">Bewaar deze woning</span></div><a class="favoriteButton" id="object-8003683" href="#"></a></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/" class="aanbodEntryLink" id="generated_id90293_68733776">
-				<span id="generated_id90293_68733781" class="hoofdfoto ">
-				
-
-
-
-
-<img width="500" height="350" id="foto200632375" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/200632375.webp?height=350&amp;check=sha256%3A75b41ce5fed6446583bc914542aa0b43562905289c7427024f50508abea2aa85&amp;width=500&amp;resize=5" class="foto_" alt="Grietstraat 1 Bs in Utrecht 3514 VH">
-
-
-
-
-	</span>
-
-	</a>
-
-
-
-</div></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/" class="aanbodEntryLink" id="generated_id90293_68733785">
-										<div class="vakkenmerken" id="generated_id90293_68733786">				<span class="kenmerkTitle">Overdracht</span>
-				<span class="kenmerk first koopprijs">
-			<span class="kenmerkName">Prijs</span>						<span class="kenmerkValue">
-				€ 675.000,- k.k.
-			</span>
-		</span>
-								<span class="kenmerkTitle">Bouwvorm</span>
-				<span class="kenmerk first soortobject">
-			<span class="kenmerkName">Soort object</span>						<span class="kenmerkValue">
-				Appartement
-			</span>
-		</span>
-					<span class="kenmerk  bouwjaar">
-			<span class="kenmerkName">Bouwjaar</span>						<span class="kenmerkValue">
-				1910
-			</span>
-		</span>
-					<span class="kenmerk  bouwvorm">
-			<span class="kenmerkName">Bouwvorm</span>						<span class="kenmerkValue">
-				Bestaande bouw
-			</span>
-		</span>
-								<span class="kenmerkTitle">Indeling</span>
-				<span class="kenmerk first woonoppervlakte">
-			<span class="kenmerkName">Woonoppervlakte</span>						<span class="kenmerkValue">
-				102 m²
-			</span>
-		</span>
-					<span class="kenmerk  perceeloppervlakte">
-			<span class="kenmerkName">Perceeloppervlakte</span>						<span class="kenmerkValue">
-				147 m²
-			</span>
-		</span>
-					<span class="kenmerk  inhoud">
-			<span class="kenmerkName">Inhoud</span>						<span class="kenmerkValue">
-				328 m³
-			</span>
-		</span>
-					<span class="kenmerk  aantalkamers">
-			<span class="kenmerkName">Aantal kamers</span>						<span class="kenmerkValue">
-				5
-			</span>
-		</span>
-				
-</div>						</a><div class="vakmidden" id="generated_id90293_68733793"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/" class="aanbodEntryLink" id="generated_id90293_68733785"><div id="generated_id90293_68733796" class="adr addressInfo notranslate">
-	
-							<h3 class="street-address">Grietstraat 1 BS </h3>
-				<span class="zipcity">
-			<span class="postal-code">3514 VH</span>
-			<span class="locality">Utrecht</span>
-		</span>
-	</div>
-
-<div class="mediaicons mediaicons-link" id="generated_id90293_68732918">
-										<div class="brochure" title="Brochure" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/#Brochure"> </div>
-																<div class="photos" title="Foto's" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/#Foto_s"></div>
-																<div class="video" title="Video's" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/#Video_s"></div>
-																<div class="plans" title="Plattegronden" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/#Plattegronden"></div>
-									
-										<div class="panorama" title="360° foto's" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/#Panorama"></div>
-						</div>
-
-</a><div class="vlakonder" id="generated_id90293_68733799"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/" class="aanbodEntryLink" id="generated_id90293_68733785"></a><div class="schaduwbutton" id="generated_id90293_68733800"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/" class="aanbodEntryLink" id="generated_id90293_68733785"></a><a href="/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/" class="" id="generated_id90293_68733802">
-								<div class="meer_info" id="generated_id90293_68733803">Meer info</div>
-	</a>
-
-</div></div></div>						<div class="clear" id="generated_id90293_68733807"></div>
-	
-
-<script type="application/ld+json">
-{"@context":"http://www.schema.org","@type":"Residence","name":"Grietstraat 1 Bs in Utrecht 3514 VH: Appartement te koop.","description":"Appartement te koop:  € 675.000,- Kosten koper. Grietstraat 1 Bs in Utrecht 3514 VH. ","address":{"@context":"http://www.schema.org","@type":"PostalAddress","streetAddress":"Grietstraat 1 BS","addressLocality":"Utrecht","postalCode":"3514 VH","addressCountry":"Nederland"},"photo":"https://images.realworks.nl/servlets/images/media.objectmedia/200632375.webp?height=1000&check=sha256%3A75b41ce5fed6446583bc914542aa0b43562905289c7427024f50508abea2aa85&width=1500&resize=1","geo":{"@context":"http://www.schema.org","@type":"GeoCoordinates","latitude":52.0977783203125,"longitude":5.123487949371338},"url":"/aanbod/woningaanbod/utrecht/koop/huis-8003683-Grietstraat-1BS/","potentialAction":[{"@context":"http://www.schema.org","@type":"SellAction","agent":{"@context":"http://www.schema.org","@type":"RealEstateAgent","name":"Nijland Makelaars Utrecht Utrecht","url":"https://www.nijland.nl","logo":"https://images.realworks.nl/servlets/images/crm.singlefileentity/2097969.jpg?check=sha256%3Ac1b0903f89f4282abde878495bd4ecaada7f94d66c27597f8c2959c69fc677c5&resize=4","photo":"","image":"https://images.realworks.nl/servlets/images/crm.singlefileentity/2097969.jpg?check=sha256%3Ac1b0903f89f4282abde878495bd4ecaada7f94d66c27597f8c2959c69fc677c5&resize=4","email":"utrecht@nijland.nl","telephone":"030-2723959","faxNumber":"","address":{"@context":"http://www.schema.org","@type":"PostalAddress","streetAddress":"Jan van Scorelstraat 18","addressLocality":"Utrecht","postalCode":"3583 CP","addressCountry":"NL"},"geo":{"@context":"http://www.schema.org","@type":"GeoCoordinates","latitude":52.098074,"longitude":5.120816},"sameAs":["https://www.facebook.com/nijland.makelaars.7","https://twitter.com/Nijland_MK","https://www.instagram.com/nijlandmakelaarsgroep/","https://www.youtube.com/user/NijlandMakelaars","https://www.linkedin.com/company/nijland-makelaars"]},"priceSpecification":{"@context":"http://www.schema.org","@type":"PriceSpecification","price":675000.0,"priceCurrency":"EUR","validFrom":"Mon Mar 17 06:00:00 CET 2025"}}]}
-</script>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Van der Palmstraat 5 
 				
@@ -265,8 +155,8 @@
         <id>https://www.gradajager.nl/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/</id>
         <link href="https://www.gradajager.nl/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/"/>
         <updated>2025-04-01T17:40:33.903Z</updated>
-        <content type="html"><![CDATA[<div class="vakfoto" id="generated_id126_94524724"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id126_94524727">
-				<span id="generated_id126_94524729" class="hoofdfoto ">
+        <content type="html"><![CDATA[<div class="vakfoto" id="generated_id94_15358742"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id94_15358745">
+				<span id="generated_id94_15358747" class="hoofdfoto ">
 				
 
 
@@ -283,8 +173,8 @@
 
 
 
-</div><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id126_94524735">
-					</a><div class="detailvak" id="generated_id126_94524736"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id126_94524735"><div id="generated_id126_94524739" class="adr addressInfo notranslate">
+</div><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id94_15358753">
+					</a><div class="detailvak" id="generated_id94_15358754"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id94_15358753"><div id="generated_id94_15358757" class="adr addressInfo notranslate">
 	
 							<h3 class="street-address">Valeriaanweg 7 </h3>
 				<span class="zipcity">
@@ -301,7 +191,7 @@
 		</span>
 						</span>
 	
-<div class="spotlight-invisible objectstatus theme-i" id="generated_id126_94524741">
+<div class="spotlight-invisible objectstatus theme-i" id="generated_id94_15358759">
 		
 			
 	
@@ -312,20 +202,20 @@
 </div>
 
 
-</a><div class="vlakonder" id="generated_id126_94524743"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id126_94524735"><div class="mediaicons mediaicons-link" id="generated_id126_94524154">
+</a><div class="vlakonder" id="generated_id94_15358761"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id94_15358753"><div class="mediaicons mediaicons-link" id="generated_id94_15358172">
 											<div class="photos" title="Foto's" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/#Foto_s"></div>
 																<div class="video" title="Video's" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/#Video_s"></div>
 																<div class="plans" title="Plattegronden" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/#Plattegronden"></div>
 									
 	</div>
-</a><div class="schaduwbutton" id="generated_id126_94524745"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id126_94524735"></a><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="" id="generated_id126_94524747">
-					<div class="meer_info" id="generated_id126_94524748">Meer info</div>
+</a><div class="schaduwbutton" id="generated_id94_15358763"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="aanbodEntryLink" id="generated_id94_15358753"></a><a href="/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/" class="" id="generated_id94_15358765">
+					<div class="meer_info" id="generated_id94_15358766">Meer info</div>
 	</a>
 
 </div></div></div>
 	
 
-			<div class="clear" id="generated_id126_94524752"></div><script type="application/ld+json">
+			<div class="clear" id="generated_id94_15358770"></div><script type="application/ld+json">
 {"@context":"http://www.schema.org","@type":"Residence","name":"Valeriaanweg 7 in Utrecht 3541 TN: Woonhuis te koop.","description":"Woonhuis te koop: Vraagprijs € 650.000,- Kosten koper. Valeriaanweg 7 in Utrecht 3541 TN. ","address":{"@context":"http://www.schema.org","@type":"PostalAddress","streetAddress":"Valeriaanweg 7","addressLocality":"Utrecht","postalCode":"3541 TN","addressCountry":"Nederland"},"photo":"https://images.realworks.nl/servlets/images/media.objectmedia/223320937.webp?height=1000&check=sha256%3A2826f9fe2617fbe5157d47dd0a42049d499398bb2338ada79eaac27ce9ef8a5d&width=1500&resize=1","geo":{"@context":"http://www.schema.org","@type":"GeoCoordinates","latitude":52.0872917175293,"longitude":5.074191093444824},"url":"/aanbod/woningaanbod/utrecht/koop/huis-8857491-Valeriaanweg-7/","potentialAction":[{"@context":"http://www.schema.org","@type":"SellAction","agent":{"@context":"http://www.schema.org","@type":"RealEstateAgent","name":"Grada Jager Makelaardij","url":"https://www.gradajager.nl","logo":"https://images.realworks.nl/servlets/images/crm.singlefileentity/2095881.jpg?check=sha256%3A88392912764a23a25213e11a27a4354e4d3bb3e2e6f6f8658fd491cd6c43608f&resize=4","photo":"https://images.realworks.nl/servlets/images/crm.singlefileentity/2095883.jpg?check=sha256%3A089354b058be24a1b6a1e0bf7c3f3b8f1cfa8f1978a78917f9e93b29b1ba8104&resize=4","image":"https://images.realworks.nl/servlets/images/crm.singlefileentity/2095883.jpg?check=sha256%3A089354b058be24a1b6a1e0bf7c3f3b8f1cfa8f1978a78917f9e93b29b1ba8104&resize=4","email":"makelaardij@gradajager.nl","telephone":"030-2967770","faxNumber":"","address":{"@context":"http://www.schema.org","@type":"PostalAddress","streetAddress":"Van Koetsveldstraat 2","addressLocality":"Utrecht","postalCode":"3532 ES","addressCountry":""},"geo":{"@context":"http://www.schema.org","@type":"GeoCoordinates","latitude":52.094157,"longitude":5.093},"sameAs":["https://nl-nl.facebook.com/Grada-Jager-Makelaardij-414279701968711/","https://twitter.com/GradaJager","","https://www.youtube.com/channel/UCEwboaFVJKlLMos9wKaOmrg?view_as=subscriber",""]},"priceSpecification":{"@context":"http://www.schema.org","@type":"PriceSpecification","price":650000.0,"priceCurrency":"EUR","validFrom":"Tue Apr 01 06:00:00 CEST 2025"}}]}
 </script>]]></content>
     </entry>
@@ -337,7 +227,7 @@
         <id>http://www.vanasenvanhooff.nl/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/</id>
         <link href="http://www.vanasenvanhooff.nl/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/"/>
         <updated>2025-04-17T17:42:04.069Z</updated>
-        <content type="html"><![CDATA[<div class="vakfoto" id="generated_id143_93000789"><div class="spotlight-invisible objectstatus theme-j" id="generated_id143_93000790">
+        <content type="html"><![CDATA[<div class="vakfoto" id="generated_id105_15315359"><div class="spotlight-invisible objectstatus theme-j" id="generated_id105_15315360">
 		
 			
 	
@@ -347,8 +237,8 @@
 		</div>
 </div>
 
-<div class="vaklink" id="generated_id143_93000791">	<div class="tooltip-wrapper tooltip-favoritebutton" id="generated_id143_93000793"><div class="tooltip"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-check fa-stack-1x fa-inverse"></i></span> <span id="woningSaved" class="hide">Woning is opgeslagen</span><span id="woningSave" class="hide">Bewaar deze woning</span></div><a class="favoriteButton" id="object-8623219" href="#"></a></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id143_93000794">
-				<span id="generated_id143_93000799" class="hoofdfoto ">
+<div class="vaklink" id="generated_id105_15315361">	<div class="tooltip-wrapper tooltip-favoritebutton" id="generated_id105_15315363"><div class="tooltip"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-check fa-stack-1x fa-inverse"></i></span> <span id="woningSaved" class="hide">Woning is opgeslagen</span><span id="woningSave" class="hide">Bewaar deze woning</span></div><a class="favoriteButton" id="object-8623219" href="#"></a></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id105_15315364">
+				<span id="generated_id105_15315369" class="hoofdfoto ">
 				
 
 
@@ -365,8 +255,8 @@
 
 
 
-</div></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id143_93000803">
-					<div class="vakkenmerken" id="generated_id143_93000804">				<span class="kenmerkTitle">Overdracht</span>
+</div></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id105_15315373">
+					<div class="vakkenmerken" id="generated_id105_15315374">				<span class="kenmerkTitle">Overdracht</span>
 				<span class="kenmerk first koopprijs">
 			<span class="kenmerkName">Vraagprijs</span>						<span class="kenmerkValue">
 				€ 625.000,- k.k.
@@ -415,7 +305,7 @@
 			</span>
 		</span>
 				
-</div>	</a><div class="vakmidden" id="generated_id143_93000811"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id143_93000803"><div id="generated_id143_93000814" class="adr addressInfo notranslate">
+</div>	</a><div class="vakmidden" id="generated_id105_15315381"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id105_15315373"><div id="generated_id105_15315384" class="adr addressInfo notranslate">
 	
 							<h3 class="street-address">Huis te Vlietlaan 6 </h3>
 				<span class="zipcity">
@@ -424,17 +314,17 @@
 		</span>
 	</div>
 
-<div class="mediaicons mediaicons-link" id="generated_id143_93000020">
+<div class="mediaicons mediaicons-link" id="generated_id105_15314590">
 											<div class="photos" title="Foto's" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/#Foto_s"></div>
 																	<div class="plans" title="Plattegronden" data-href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/#Plattegronden"></div>
 									
 	</div>
 
-</a><div class="vlakonder" id="generated_id143_93000817"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id143_93000803"></a><div class="schaduwbutton" id="generated_id143_93000818"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id143_93000803"></a><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="" id="generated_id143_93000820">
-					<div class="meer_info" id="generated_id143_93000821">Meer info</div>
+</a><div class="vlakonder" id="generated_id105_15315387"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id105_15315373"></a><div class="schaduwbutton" id="generated_id105_15315388"><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="aanbodEntryLink" id="generated_id105_15315373"></a><a href="/aanbod/woningaanbod/utrecht/koop/huis-8623219-Huis-te-Vlietlaan-6/" class="" id="generated_id105_15315390">
+					<div class="meer_info" id="generated_id105_15315391">Meer info</div>
 	</a>
 
-</div></div></div>	<div class="clear" id="generated_id143_93000825"></div>
+</div></div></div>	<div class="clear" id="generated_id105_15315395"></div>
 	
 
 <script type="application/ld+json">
