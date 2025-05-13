@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed2/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-12T17:42:53.440Z</updated>
+    <updated>2025-05-13T05:44:30.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Van der Palmstraat 5 
@@ -155,7 +155,7 @@
         <id>http://www.vanasenvanhooff.nl/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/</id>
         <link href="http://www.vanasenvanhooff.nl/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/"/>
         <updated>2025-05-09T17:41:56.387Z</updated>
-        <content type="html"><![CDATA[<div class="vakfoto" id="generated_id152_220011305"><div class="spotlight-invisible objectstatus theme-j" id="generated_id152_220011306">
+        <content type="html"><![CDATA[<div class="vakfoto" id="generated_id92_237068989"><div class="spotlight-invisible objectstatus theme-j" id="generated_id92_237068990">
 		
 			
 	
@@ -165,8 +165,8 @@
 		</div>
 </div>
 
-<div class="vaklink" id="generated_id152_220011307">	<div class="tooltip-wrapper tooltip-favoritebutton" id="generated_id152_220011309"><div class="tooltip"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-check fa-stack-1x fa-inverse"></i></span> <span id="woningSaved" class="hide">Woning is opgeslagen</span><span id="woningSave" class="hide">Bewaar deze woning</span></div><a class="favoriteButton" id="object-9022466" href="#"></a></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id152_220011310">
-				<span id="generated_id152_220011315" class="hoofdfoto ">
+<div class="vaklink" id="generated_id92_237068991">	<div class="tooltip-wrapper tooltip-favoritebutton" id="generated_id92_237068993"><div class="tooltip"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-check fa-stack-1x fa-inverse"></i></span> <span id="woningSaved" class="hide">Woning is opgeslagen</span><span id="woningSave" class="hide">Bewaar deze woning</span></div><a class="favoriteButton" id="object-9022466" href="#"></a></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id92_237068994">
+				<span id="generated_id92_237068999" class="hoofdfoto ">
 				
 
 
@@ -183,8 +183,8 @@
 
 
 
-</div></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id152_220011319">
-					<div class="vakkenmerken" id="generated_id152_220011320">				<span class="kenmerkTitle">Overdracht</span>
+</div></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id92_237069003">
+					<div class="vakkenmerken" id="generated_id92_237069004">				<span class="kenmerkTitle">Overdracht</span>
 				<span class="kenmerk first koopprijs">
 			<span class="kenmerkName">Vraagprijs</span>						<span class="kenmerkValue">
 				€ 385.000,- k.k.
@@ -233,7 +233,7 @@
 			</span>
 		</span>
 				
-</div>	</a><div class="vakmidden" id="generated_id152_220011327"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id152_220011319"><div id="generated_id152_220011330" class="adr addressInfo notranslate">
+</div>	</a><div class="vakmidden" id="generated_id92_237069011"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id92_237069003"><div id="generated_id92_237069014" class="adr addressInfo notranslate">
 	
 							<h3 class="street-address">M. van Meelstraat 19 </h3>
 				<span class="zipcity">
@@ -242,18 +242,18 @@
 		</span>
 	</div>
 
-<div class="mediaicons mediaicons-link" id="generated_id152_220010536">
+<div class="mediaicons mediaicons-link" id="generated_id92_237068220">
 										<div class="brochure" title="Brochure" data-href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/#Brochure"> </div>
 																<div class="photos" title="Foto's" data-href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/#Foto_s"></div>
 																	<div class="plans" title="Plattegronden" data-href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/#Plattegronden"></div>
 									
 	</div>
 
-</a><div class="vlakonder" id="generated_id152_220011333"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id152_220011319"></a><div class="schaduwbutton" id="generated_id152_220011334"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id152_220011319"></a><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="" id="generated_id152_220011336">
-					<div class="meer_info" id="generated_id152_220011337">Meer info</div>
+</a><div class="vlakonder" id="generated_id92_237069017"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id92_237069003"></a><div class="schaduwbutton" id="generated_id92_237069018"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="aanbodEntryLink" id="generated_id92_237069003"></a><a href="/aanbod/woningaanbod/utrecht/koop/huis-9022466-M.-van-Meelstraat-19/" class="" id="generated_id92_237069020">
+					<div class="meer_info" id="generated_id92_237069021">Meer info</div>
 	</a>
 
-</div></div></div>	<div class="clear" id="generated_id152_220011341"></div>
+</div></div></div>	<div class="clear" id="generated_id92_237069025"></div>
 	
 
 <script type="application/ld+json">
