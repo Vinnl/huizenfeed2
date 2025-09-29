@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nijland.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-620000/koop/4+kamers/</id>
     <title>Nijland Makelaars</title>
-    <updated>2025-09-29T05:44:49.701Z</updated>
+    <updated>2025-09-29T17:39:43.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nijland.nl/aanbod/woningaanbod/UTRECHT/100+woonopp/-620000/koop/4+kamers/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <id>https://www.nijland.nl/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/</id>
         <link href="https://www.nijland.nl/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/"/>
         <updated>2025-09-09T17:39:55.390Z</updated>
-        <content type="html"><![CDATA[<div class="vakfoto" id="generated_id288110_2591990"><div class="spotlight-invisible objectstatus theme-j" id="generated_id288110_2591991">
+        <content type="html"><![CDATA[<div class="vakfoto" id="generated_id98_404403947"><div class="spotlight-invisible objectstatus theme-j" id="generated_id98_404403948">
 		
 			
-	
-																			
-	<div class="tekoop nieuw"><span></span>
-			<span class="objectstatusbanner bannerstatusnieuw">Nieuw</span>
+						
+																
+	<div class="tekoop openhuis bannerstatusnieuw"><span></span>
+			<span class="objectstatusbanner bannerstatusopenhuis bannerstatusnieuw">Open Huis</span>
 		</div>
 </div>
 
-<div class="vaklink" id="generated_id288110_2591992">	<div class="tooltip-wrapper tooltip-favoritebutton" id="generated_id288110_2591994"><div class="tooltip"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-check fa-stack-1x fa-inverse"></i></span> <span id="woningSaved" class="hide">Woning is opgeslagen</span><span id="woningSave" class="hide">Bewaar deze woning</span></div><a class="favoriteButton" id="object-9129616" href="#"></a></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id288110_2591995">
-				<span id="generated_id288110_2592000" class="hoofdfoto ">
+<div class="vaklink" id="generated_id98_404403949">	<div class="tooltip-wrapper tooltip-favoritebutton" id="generated_id98_404403951"><div class="tooltip"><span class="fa-stack"><i class="fa fa-circle fa-stack-2x"></i> <i class="fa fa-check fa-stack-1x fa-inverse"></i></span> <span id="woningSaved" class="hide">Woning is opgeslagen</span><span id="woningSave" class="hide">Bewaar deze woning</span></div><a class="favoriteButton" id="object-9129616" href="#"></a></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id98_404403952">
+				<span id="generated_id98_404403957" class="hoofdfoto ">
 				
 
 
@@ -41,8 +41,8 @@
 
 
 
-</div></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id288110_2592004">
-										<div class="vakkenmerken" id="generated_id288110_2592005">				<span class="kenmerkTitle">Overdracht</span>
+</div></div><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id98_404403961">
+										<div class="vakkenmerken" id="generated_id98_404403962">				<span class="kenmerkTitle">Overdracht</span>
 				<span class="kenmerk first koopprijs">
 			<span class="kenmerkName">Vraagprijs</span>						<span class="kenmerkValue">
 				€ 575.000,- k.k.
@@ -86,7 +86,7 @@
 			</span>
 		</span>
 				
-</div>						</a><div class="vakmidden" id="generated_id288110_2592012"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id288110_2592004"><div id="generated_id288110_2592015" class="adr addressInfo notranslate">
+</div>						</a><div class="vakmidden" id="generated_id98_404403969"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id98_404403961"><div id="generated_id98_404403972" class="adr addressInfo notranslate">
 	
 							<h3 class="street-address">Croeselaan 265 BS </h3>
 				<span class="zipcity">
@@ -95,22 +95,26 @@
 		</span>
 	</div>
 
-<div class="mediaicons mediaicons-link" id="generated_id288110_2591137">
+<div class="mediaicons mediaicons-link" id="generated_id98_404403094">
 										<div class="brochure" title="Brochure" data-href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/#Brochure"> </div>
 																<div class="photos" title="Foto's" data-href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/#Foto_s"></div>
 																	<div class="plans" title="Plattegronden" data-href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/#Plattegronden"></div>
 									
 	</div>
+	<div id="generated_id98_404403974" class="openhuizendagen ">
+		<h4>Open huis</h4>
+					<div class="openhuisdatum">04-10-2025 11:00 - 15:00 </div>
+			</div>
 
-</a><div class="vlakonder" id="generated_id288110_2592018"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id288110_2592004"></a><div class="schaduwbutton" id="generated_id288110_2592019"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id288110_2592004"></a><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="" id="generated_id288110_2592021">
-								<div class="meer_info" id="generated_id288110_2592022">Meer info</div>
+</a><div class="vlakonder" id="generated_id98_404403975"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id98_404403961"></a><div class="schaduwbutton" id="generated_id98_404403976"><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="aanbodEntryLink" id="generated_id98_404403961"></a><a href="/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/" class="" id="generated_id98_404403978">
+								<div class="meer_info" id="generated_id98_404403979">Meer info</div>
 	</a>
 
-</div></div></div>						<div class="clear" id="generated_id288110_2592026"></div>
+</div></div></div>						<div class="clear" id="generated_id98_404403983"></div>
 	
 
 <script type="application/ld+json">
-{"@context":"http://www.schema.org","@type":"Residence","name":"Croeselaan 265 Bs in Utrecht 3521 BR: Appartement te koop.","description":"Appartement te koop: Vraagprijs € 575.000,- Kosten koper. Croeselaan 265 Bs in Utrecht 3521 BR. ","address":{"@context":"http://www.schema.org","@type":"PostalAddress","streetAddress":"Croeselaan 265 BS","addressLocality":"Utrecht","postalCode":"3521 BR","addressCountry":"Nederland"},"photo":"https://images.realworks.nl/servlets/images/media.objectmedia/233878494.webp?height=1000&check=sha256%3A89582ad0c75b8ce87268c72fc11da04be5402da94e0eb9e58a3596b432530516&width=1500&resize=1","geo":{"@context":"http://www.schema.org","@type":"GeoCoordinates","latitude":52.0818977355957,"longitude":5.111225128173828},"url":"/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/","potentialAction":[{"@context":"http://www.schema.org","@type":"SellAction","agent":{"@context":"http://www.schema.org","@type":"RealEstateAgent","name":"Nijland Makelaars Utrecht Utrecht","url":"https://www.nijland.nl","logo":"https://images.realworks.nl/servlets/images/crm.singlefileentity/2097969.jpg?check=sha256%3Ac1b0903f89f4282abde878495bd4ecaada7f94d66c27597f8c2959c69fc677c5&resize=4","photo":"","image":"https://images.realworks.nl/servlets/images/crm.singlefileentity/2097969.jpg?check=sha256%3Ac1b0903f89f4282abde878495bd4ecaada7f94d66c27597f8c2959c69fc677c5&resize=4","email":"utrecht@nijland.nl","telephone":"030-2723959","faxNumber":"","address":{"@context":"http://www.schema.org","@type":"PostalAddress","streetAddress":"Jan van Scorelstraat 18","addressLocality":"Utrecht","postalCode":"3583 CP","addressCountry":"NL"},"geo":{"@context":"http://www.schema.org","@type":"GeoCoordinates","latitude":52.098074,"longitude":5.120816},"sameAs":["https://www.facebook.com/nijland.makelaars.7","https://twitter.com/Nijland_MK","https://www.instagram.com/nijlandmakelaarsgroep/","https://www.youtube.com/user/NijlandMakelaars","https://www.linkedin.com/company/nijland-makelaars"]},"priceSpecification":{"@context":"http://www.schema.org","@type":"PriceSpecification","price":575000.0,"priceCurrency":"EUR","validFrom":"Wed Sep 10 06:00:00 CEST 2025"}}]}
+{"@context":"http://www.schema.org","@type":"Residence","name":"Croeselaan 265 Bs in Utrecht 3521 BR: Appartement te koop.","description":"Appartement te koop: Vraagprijs € 575.000,- Kosten koper. Croeselaan 265 Bs in Utrecht 3521 BR. ","address":{"@context":"http://www.schema.org","@type":"PostalAddress","streetAddress":"Croeselaan 265 BS","addressLocality":"Utrecht","postalCode":"3521 BR","addressCountry":"Nederland"},"photo":"https://images.realworks.nl/servlets/images/media.objectmedia/233878494.webp?height=1000&check=sha256%3A89582ad0c75b8ce87268c72fc11da04be5402da94e0eb9e58a3596b432530516&width=1500&resize=1","geo":{"@context":"http://www.schema.org","@type":"GeoCoordinates","latitude":52.0818977355957,"longitude":5.111225128173828},"url":"/aanbod/woningaanbod/utrecht/koop/huis-9129616-Croeselaan-265BS/","event":[{"@context":"http://www.schema.org","@type":"Event","name":"Openhuis","description":"Openhuis Croeselaan 265 BS te Utrecht","startDate":"Sat Oct 04 11:00:00 CEST 2025","endDate":"Sat Oct 04 15:00:00 CEST 2025","location":{"@context":"http://www.schema.org","@type":"Place","name":"Croeselaan 265 BS te Utrecht","address":{"@context":"http://www.schema.org","@type":"PostalAddress","streetAddress":"Croeselaan 265 BS","addressLocality":"Utrecht","postalCode":"3521 BR","addressCountry":"Nederland"}}}],"potentialAction":[{"@context":"http://www.schema.org","@type":"SellAction","agent":{"@context":"http://www.schema.org","@type":"RealEstateAgent","name":"Nijland Makelaars Utrecht Utrecht","url":"https://www.nijland.nl","logo":"https://images.realworks.nl/servlets/images/crm.singlefileentity/2097969.jpg?check=sha256%3Ac1b0903f89f4282abde878495bd4ecaada7f94d66c27597f8c2959c69fc677c5&resize=4","photo":"","image":"https://images.realworks.nl/servlets/images/crm.singlefileentity/2097969.jpg?check=sha256%3Ac1b0903f89f4282abde878495bd4ecaada7f94d66c27597f8c2959c69fc677c5&resize=4","email":"utrecht@nijland.nl","telephone":"030-2723959","faxNumber":"","address":{"@context":"http://www.schema.org","@type":"PostalAddress","streetAddress":"Jan van Scorelstraat 18","addressLocality":"Utrecht","postalCode":"3583 CP","addressCountry":"NL"},"geo":{"@context":"http://www.schema.org","@type":"GeoCoordinates","latitude":52.098074,"longitude":5.120816},"sameAs":["https://www.facebook.com/nijland.makelaars.7","https://twitter.com/Nijland_MK","https://www.instagram.com/nijlandmakelaarsgroep/","https://www.youtube.com/user/NijlandMakelaars","https://www.linkedin.com/company/nijland-makelaars"]},"priceSpecification":{"@context":"http://www.schema.org","@type":"PriceSpecification","price":575000.0,"priceCurrency":"EUR","validFrom":"Wed Sep 10 06:00:00 CEST 2025"}}]}
 </script>]]></content>
     </entry>
 </feed>
